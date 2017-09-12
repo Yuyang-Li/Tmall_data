@@ -12,4 +12,4 @@
 ## Use
 - 使用顺序：tool_path -> tool_label -> tool_data -> tool_sql
 
-- 具体注释和备注在代码文件中
+- *具体注释和备注在代码文件中
